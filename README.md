@@ -1,5 +1,5 @@
 # Covid-Tracker
 
-Covid Tracker is a react native mobile app. It shows the data of covid cases and helps in visualiing them. The data is fetched from [disease.sh](https://disease.sh/docs/) which has apis to fetch covid information. The news is fetched from [news api](https://newsapi.org).
+Covid Tracker is a react native mobile app. It shows the data of covid cases and helps in visualizing them. The data is fetched from [disease.sh](https://disease.sh/docs/) which has apis to fetch covid information. The news is fetched from [news api](https://newsapi.org).
 
 <img src="https://github.com/ksnvdkalyan/Covid-Tracker/blob/main/images/SplashScreen.jpg" width="200" height="400" /><img src="https://github.com/ksnvdkalyan/Covid-Tracker/blob/main/images/Home.jpg" width="200" height="400" /><img src="https://github.com/ksnvdkalyan/Covid-Tracker/blob/main/images/Search.jpg" width="200" height="400" /><img src="https://github.com/ksnvdkalyan/Covid-Tracker/blob/main/images/CountryInfo.jpg" width="200" height="400" /><img src="https://github.com/ksnvdkalyan/Covid-Tracker/blob/main/images/News.jpg" width="200" height="400" /><img src="https://github.com/ksnvdkalyan/Covid-Tracker/blob/main/images/Precautions.jpg" width="200" height="400" /><img src="https://github.com/ksnvdkalyan/Covid-Tracker/blob/main/images/Info.jpg" width="200" height="400" />
